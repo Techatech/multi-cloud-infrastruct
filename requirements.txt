@@ -1,0 +1,19 @@
+# The core Google Agent Development Kit
+google-adk 1.11.0
+
+# The official Elasticsearch client for your RAG queries
+elasticsearch
+
+# For making async HTTP requests to your MCP and Cost APIs
+httpx
+
+# For managing environment variables
+python-dotenv
+
+# Pydantic is used heavily by ADK for state management
+pydantic
+langchain
+langchain-community
+pypdf
+tqdm
+langchain-text-splitters
